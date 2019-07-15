@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\英単語\bin\Debug\英単語.exe.config
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\英単語\bin\Debug\英単語.exe
+c:\users\user\documents\visual studio 2013\Projects\英単語\bin\Debug\英単語.pdb
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.exe
+c:\users\user\documents\visual studio 2013\Projects\英単語\obj\Debug\英単語.pdb
