@@ -1,9 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\bin\Release\英単語.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\bin\Release\英単語.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\bin\Release\英単語.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.Form1.resources
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.Properties.Resources.resources
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.csproj.GenerateResource.Cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\英単語\obj\Release\英単語.csprojResolveAssemblyReference.cache

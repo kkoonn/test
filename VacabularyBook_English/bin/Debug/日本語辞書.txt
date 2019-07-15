@@ -1,4 +1,0 @@
-0.　ダミーです
-1.　こんにちは	(例)	Hello. My name is Ken.	こんにちは。私の名前はケンです。
-2.　おはよう	(例)	Good mornig, everyone!	みなさん、おはようございます！
-3.　こんばんは	(例)	Good evening, everyone.	みなさん、こんばんは。
